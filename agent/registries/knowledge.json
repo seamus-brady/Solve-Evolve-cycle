@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entries": {
+    "window_size": {
+      "value": 10,
+      "description": "Number of episodes (W) to batch before triggering the evolver.",
+      "provenance": "initial_config",
+      "updated_at": 0,
+      "version": 1
+    },
+    "model": {
+      "value": "claude-opus-4-6",
+      "description": "LLM model used by the evolver pipeline.",
+      "provenance": "initial_config",
+      "updated_at": 0,
+      "version": 1
+    }
+  }
+}
